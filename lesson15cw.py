@@ -56,3 +56,5 @@
 #     s = input("Какая у тебя фамилия?")
 #     y = infinite_information(n, s)
 #     print(y)
+
+print(4**(1/2))
